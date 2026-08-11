@@ -1,0 +1,16 @@
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\bin\Debug\net10.0-windows\Activity07.exe
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\bin\Debug\net10.0-windows\Activity07.deps.json
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\bin\Debug\net10.0-windows\Activity07.runtimeconfig.json
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\bin\Debug\net10.0-windows\Activity07.dll
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\bin\Debug\net10.0-windows\Activity07.pdb
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.Form1.resources
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.vbproj.GenerateResource.cache
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.AssemblyInfoInputs.cache
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.AssemblyInfo.vb
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.vbproj.CoreCompileInputs.cache
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.dll
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\refint\Activity07.dll
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.pdb
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\Activity07.genruntimeconfig.cache
+G:\Github\Object Oriented Programming CpE-121\Activity07((GUI) Graphic User Interface Working with Control Properties)\Activity07\Activity07\obj\Debug\net10.0-windows\ref\Activity07.dll
